@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun
+  - Jugador
+  - Bala
+  - ExplosiveBarrel
+  - Metal
+  - Goal
+  - Obstacle
+  - TalkingCharacter
+  - Casa
+  - Brother
+  - Blue
+  - Orange
+  - Genetic
+  - Fuego
+  - ZombiesNew
+  - FuegoCasa
+  - nextLevel
+  - ZombieFlies
+  - ProtectiveZombie
+  - Bat
+  - Skeleton
+  - Key
+  - ChestSup
+  - skullPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Decoration
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

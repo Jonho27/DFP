@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{A79B09A8-721F-1324-BF55-E9181F655BCF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FlockingAlgorithm/FlockAgent.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerLevel3.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="../../../TutorialARCore/Assets/Scripts/FrogController.cs" />
+      <File FileName="../../../TutorialARCore/Assets/Scripts/SpawnScript.cs" />
+      <File FileName="../../../TutorialARCore/Assets/Scripts/BaloonScript.cs" />
+      <File FileName="../../../TutorialARCore/Assets/Scripts/ShootScript.cs" />
+      <File FileName="../../../TutorialARCore/Assets/Scripts/SceneChange.cs" />
+      <File FileName="Assets/Scripts/level2Controller.cs" />
+      <File FileName="Assets/Scripts/Chase.cs" />
+      <File FileName="Assets/Scripts/ProgressSceneLoader.cs" />
+      <File FileName="Assets/Scripts/optionsMenu.cs" />
+      <File FileName="Assets/Scripts/tutorialController.cs" />
+      <File FileName="Assets/Scripts/winMenu.cs" />
+      <File FileName="Assets/Scripts/mexicanMan.cs" />
+      <File FileName="Assets/Scripts/GeneticAlgorithm/pruebaPopulationController.cs" />
+      <File FileName="Assets/Scripts/LogicaProtectiveZombie.cs" />
+      <File FileName="Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/HandgunScriptLPFP.cs" />
+      <File FileName="Assets/Scripts/ammoController.cs" />
+      <File FileName="Assets/Scripts/brotherController.cs" />
+      <File FileName="Assets/Scripts/LogicaEsqueleto.cs" />
+      <File FileName="Assets/Scripts/MoveRandomly.cs" />
+      <File FileName="Assets/Scripts/batController.cs" />
+      <File FileName="Assets/amusedART/Monster Bat/projectileScript.cs" />
+      <File FileName="Assets/Scripts/playerLevel2.cs" />
+      <File FileName="Assets/Scripts/cofreController.cs" />
+      <File FileName="Assets/Scripts/mummyController.cs" />
+      <File FileName="Assets/Scripts/skullController.cs" />
+      <File FileName="Assets/Scripts/ammoControllerFull.cs" />
+      <File FileName="Assets/Scripts/infiniteAmmoBoxes.cs" />
+      <File FileName="Assets/Scripts/firstAidController.cs" />
+      <File FileName="Assets/Scripts/flockSpawner.cs" />
+      <File FileName="Assets/Scripts/FlockingAlgorithm/FlockAgent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChasePlayer.cs" />
+      <File FileName="Assets/Scripts/FlockingAlgorithm/Flock.cs" />
+      <File FileName="Assets/Scripts/GeneticAlgorithm/pruebaGeneticPathfinder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WanderAI.cs" />
+      <File FileName="Assets/Scripts/LogicaEnemigo.cs" />
+      <File FileName="Assets/Scripts/pauseMenu2.cs" />
+      <File FileName="Assets/Scripts/gasStation.cs" />
+      <File FileName="Assets/Scripts/transitionLevel.cs" />
+      <File FileName="Assets/Scripts/Music.cs" />
+      <File FileName="Assets/Scripts/GeneticAlgorithm/pruebaDNA.cs" />
+      <File FileName="Assets/Scripts/GeneticAlgorithm/GeneticPathfinder.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="92045d23-65af-4b6b-8f4d-a087c1e7f4c1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
